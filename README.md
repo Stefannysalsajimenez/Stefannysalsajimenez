@@ -19,5 +19,5 @@
 ### 📊 Actividad
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Stefannysalsajimenez&theme=default" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stefannysalsajimenez&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10" alt="Lenguajes más usados:" />
 </p>
