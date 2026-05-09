@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Stefannysj&color=blue&style=flat-square&label=Views" alt="Profile Views" />
+</div>
+
 <h1 align="center">Stefanny Salas Jimenez</h1>
 
 <p align="center">
