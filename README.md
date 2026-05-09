@@ -16,8 +16,8 @@
 
 ---
 
-### 📊 Actividad
+<h2 align="center">📊 Actividad</h2>
 
 <p align="center">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stefannysalsajimenez&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10" alt="Lenguajes más usados:" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stefannysj&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10" alt="Lenguajes más usados:" />
 </p>
